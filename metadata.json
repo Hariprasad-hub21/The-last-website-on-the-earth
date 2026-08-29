@@ -1,0 +1,6 @@
+{
+  "name": "The Last Website on Earth",
+  "description": "The internet disappeared in 2147. One website survived. An interactive cinematic 3D cyber-archaeological exploration with NEXUS AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
